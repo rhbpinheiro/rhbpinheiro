@@ -2,9 +2,9 @@
 
 
 **rhbpinheiro/rhbpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-
-
+<hr/>
 ### 📈 Stats:
 
 <a href="https://github.com/rhbpinheiro">

@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### 📈 Stats:
 
 <div align="left"> 
-<img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsporto&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mrcsporto&show_icons=true&theme=tokyonight&locale=en" alt="mrcsporto" />
+<img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhbpinheiro&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rhbpinheiro&show_icons=true&theme=tokyonight&locale=en" alt="rhbpinheiro" />
 </div>

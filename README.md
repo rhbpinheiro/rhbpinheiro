@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 - 
 ### 📈 Stats:
 
 <div align="left"> 
+<a href="https://github.com/rhbpinheiro">  
 <img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhbpinheiro&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=rhbpinheiro&show_icons=true&theme=tokyonight&locale=en" alt="rhbpinheiro" />
 </div>

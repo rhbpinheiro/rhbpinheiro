@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/rhbpinheiro">  
 <img width="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhbpinheiro&show_icons=true&theme=tokyonight"/>
 <img width="205em" src="https://github-readme-stats.vercel.app/api?username=rhbpinheiro&show_icons=true&theme=tokyonight&locale=en" alt="rhbpinheiro" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhbpinheiro\&layout=compact)  
 </div>

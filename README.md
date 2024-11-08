@@ -1,7 +1,7 @@
 ## Olá! Sou Rodolpho Pìnheiro.👋
 
 
-#### Sou Desenvolvedor Full-Stack
+#### Full-Stack Developer | Web | Mobile | Flutter | React.js | Next.js | TypeScript | Node.js | Nest.js | PostgresSQL.
 
 ### ✉️ Find me on: 
 

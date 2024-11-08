@@ -6,6 +6,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:rhbpinheiro30@gmail.com)](mailto:rhbpinheiro30@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolphopinheiro/)](https://www.linkedin.com/in/rodolphopinheiro/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=internet-explorer&logoColor=white&link=https://portfolio-rodolpho.vercel.app)](https://portfolio-rodolpho.vercel.app)
+
 [![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fportfolio-rodolpho.vercel.app%2F)](portfolio-rodolpho.vercel.app)
 
 <hr>

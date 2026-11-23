@@ -1,41 +1,46 @@
-## Olá! Sou Rodolpho Pìnheiro.👋
+## Olá! Sou Rodolpho Pinheiro 👋
 
+**Desenvolvedor Full Stack pleno** · Node.js · NestJS · React · Next.js · TypeScript · Flutter · PostgreSQL
 
-#### Full-Stack Developer | Web | Mobile | Flutter | React.js | Next.js | TypeScript | Node.js | Nest.js | PostgreSQL.
+Construo aplicações web e mobile do levantamento de requisitos ao deploy. Apps publicados com mais de 4 mil downloads somados, mais de 15 clientes atendidos e um ERP próprio em homologação.
 
-### ✉️ Find me on: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolphopinheiro/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0d1a4b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syntdev.synthub.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rhbpinheiro30@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:rhbpinheiro30@gmail.com)](mailto:rhbpinheiro30@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolphopinheiro/)](https://www.linkedin.com/in/rodolphopinheiro/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0d1a4b?style=for-the-badge&logo=internet-explorer&logoColor=white&link=https://portfolio-rodolpho.vercel.app)](https://portfolio-rodolpho.vercel.app)
+---
 
-<hr>
+### 🔒 Sobre os repositórios
 
-### 🧰 Technologies and Tools:
+A maior parte do meu código é **privada**: são projetos de clientes e produtos próprios. Abaixo está o que está no ar. Em entrevistas, posso mostrar o código por compartilhamento de tela.
+
+### 🚀 Projetos
+
+| Projeto | O que é | Meu papel e stack |
+|---|---|---|
+| [**Kortex OS**](https://kortexos.com.br) | ERP multiempresa em monólito modular (~40 módulos: vendas, estoque, financeiro, fiscal) | Produto próprio. NestJS, Next.js, PostgreSQL, Redis, filas, Docker e GitHub Actions; decisões registradas em ADRs. Em homologação com o primeiro cliente |
+| [**FastCondomínio**](https://www.fastcondominio.com.br) | SaaS de gestão condominial | Front-end, em dupla: landing em Next.js, gestão em Flutter Web e app do morador em Flutter. Lançamento previsto para dez/2026 |
+| **Fixanet** | Clube de benefícios: portal administrativo e app do cliente | Refeitos do zero em Flutter e Flutter Web. Mais de 3.000 downloads, nota 4,5 e mais de 4 mil dispositivos ativos por mês |
+| [**ID Agro Máquinas**](https://idagro.com.br) | Cadastro oficial de máquinas agrícolas (RENAGRO/MAPA) | App Flutter feito sozinho, integrado à API do RENAGRO, com mais de 1.000 downloads; site em Next.js |
+| [**SyntBuilder**](https://syntbuilder.synthub.com.br) | Micro-SaaS de páginas de links | Next.js, TypeScript, Prisma, NextAuth.js e Docker. Em produção |
+
+### 🤖 Como eu desenvolvo
+
+Desenvolvo com IA no dia a dia: monto um fluxo com agentes e subagentes (Claude Code, Cursor), guiado por **especificação (SDD)** e por **testes (TDD)**, e reviso cada entrega antes de ir para produção.
+
+### 🧰 Stack
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
 </p>
 
-<hr/>
-
-### 📈 Stats:
-
-<div aling="left">
-  <a href="https://github.com/rhbpinheiro">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhbpinheiro&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&locale=en&card_width=320" />
-  </a>
-  <a href="https://github.com/rhbpinheiro">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rhbpinheiro&show_icons=true&theme=tokyonight" />
-  </a>  
-</div>
-
-
+📍 Fortaleza, CE · Trabalho remoto

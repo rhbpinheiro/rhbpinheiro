@@ -20,7 +20,7 @@ A maior parte do meu código é **privada**: são projetos de clientes e produto
 |---|---|---|
 | [**Kortex OS**](https://kortexos.com.br) | ERP multiempresa em monólito modular (~40 módulos: vendas, estoque, financeiro, fiscal) | Produto próprio. NestJS, Next.js, PostgreSQL, Redis, filas, Docker e GitHub Actions; decisões registradas em ADRs. Em homologação com o primeiro cliente |
 | [**FastCondomínio**](https://www.fastcondominio.com.br) | SaaS de gestão condominial | Front-end, em dupla: landing em Next.js, gestão em Flutter Web e app do morador em Flutter. Lançamento previsto para dez/2026 |
-| **Fixanet** | Clube de benefícios: portal administrativo e app do cliente | Refeitos do zero em Flutter e Flutter Web. Mais de 3.000 downloads, nota 4,5 e mais de 4 mil dispositivos ativos por mês |
+| [**Fixanet**](https://play.google.com/store/apps/details?id=br.com.fixanet.app&hl=pt_BR) | Clube de benefícios: portal administrativo e app do cliente | Refeitos do zero em Flutter e Flutter Web. Mais de 3.000 downloads, nota 4,5 e mais de 4 mil dispositivos ativos por mês |
 | [**ID Agro Máquinas**](https://idagro.com.br) | Cadastro oficial de máquinas agrícolas (RENAGRO/MAPA) | App Flutter feito sozinho, integrado à API do RENAGRO, com mais de 1.000 downloads; site em Next.js |
 | [**SyntBuilder**](https://syntbuilder.synthub.com.br) | Micro-SaaS de páginas de links | Next.js, TypeScript, Prisma, NextAuth.js e Docker. Em produção |
 
